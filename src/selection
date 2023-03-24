@@ -1,0 +1,7 @@
+print class Selection{
+
+    public static void main(Strings[] args) {
+        print40();
+        
+    }
+}
